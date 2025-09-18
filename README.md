@@ -68,6 +68,18 @@ Key dimensions explored:
 
 ---
 
+## 📂 Explore the Analysis
+
+The full data analysis behind the storytelling website is available in this repository:
+
+- [`notebooks/`](notebooks/) — Jupyter notebooks with the complete analysis pipeline  
+- [`plots/`](plots/) — generated visualizations used in the data story  
+- [`analysis/README.md`](analysis/README.md) — the original, detailed project README with methodology, preprocessing steps, and team organization  
+
+⚠️ *Note: Datasets are too large to host on GitHub, but the notebooks and graphs remain available for inspection.*  
+
+---
+
 ## 🙌 Team
 
 This project was completed by **Tim Brunner, Dana Kalaaji, Cyril Golaz, Ajkuna Seipi & Alexander Odermatt**  

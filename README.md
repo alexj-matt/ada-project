@@ -4,8 +4,7 @@
 A collaborative project exploring what makes a **beer popular**, using data from **BeerAdvocate** and **RateBeer**.  
 We present the results of our course project in an **interactive storytelling website** that reveals insights about beer characteristics, seasonality and consumer preferences.  
 
-🔗 **Live Demo:** [Brew to Success Website](https://ajkunas.github.io/ada-template-website/)  
-📂 **Original Repository:** [Ajkunas/ada-template-website](https://github.com/Ajkunas/ada-template-website)  
+🔗 **Live Demo:** [Brew to Success Website](https://ajkunas.github.io/ada-template-website/)
 
 ---
 
@@ -64,7 +63,7 @@ Key dimensions explored:
 
 - **Python (pandas, NumPy, matplotlib)** for data cleaning, statistical analysis, visualization and keyword extraction.
 - **Data Sources**: BeerAdvocate & RateBeer reviews
-- **Hosting**: GitHub Pages  
+- **Hosting**: GitHub Pages ([Ajkunas/ada-template-website](https://github.com/Ajkunas/ada-template-website))
 
 ---
 
